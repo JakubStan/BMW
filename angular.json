@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bmw2"
+    }
+  },
+  "defaultProject": "bmw2",
+  "cli": {
+    "analytics": false
+  }
 }
